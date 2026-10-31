@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Découvrir React : composants et JSX" },
+  { "id": 2, "title": "Qu’est-ce que l’intelligence artificielle ?" },
+  { "id": 3, "title": "Gérer l’état d’une application avec useState" },
+  { "id": 4, "title": "Comment fonctionne l’apprentissage automatique" },
+  { "id": 5, "title": "useEffect et les appels API dans React" },
+  { "id": 6, "title": "Les chatbots et les modèles de langage" },
+  { "id": 7, "title": "React Router : naviguer entre les pages" },
+  { "id": 8, "title": "L’IA dans la vie de tous les jours" },
+  { "id": 9, "title": "Créer ses propres hooks dans React" },
+  { "id": 10, "title": "Les enjeux éthiques de l’IA" }
+]
